@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="52px" viewBox="0 0 64 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>messages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="messages" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M63.997,1.962 C64.004,1.45 63.814,0.938 63.424,0.549 C62.97,0.094 62.349,0 61.758,0 L2.241,0 C1.651,0 1.03,0.094 0.576,0.549 C0.184,0.939 -0.005,1.454 0.003,1.967 C0.002,1.976 0,1.983 0,1.992 L0,49.996 C0,51.098 0.895,52 2,52 L62,52 C63.105,52 64,51.098 64,49.996 L64,1.992 C64,1.982 63.997,1.973 63.997,1.962 L63.997,1.962 Z M56.334,4 L32,23.479 L7.665,4 L56.334,4 L56.334,4 Z M58,48 L6,48 C4.896,48 4,47.1 4,45.992 L4,6.067 L30.404,27.203 C30.456,27.271 30.504,27.34 30.566,27.402 C30.961,27.798 31.482,27.987 32,27.975 C32.518,27.987 33.039,27.798 33.434,27.402 C33.496,27.34 33.544,27.271 33.596,27.203 L60,6.067 L60,45.992 C60,47.1 59.104,48 58,48 L58,48 Z" id="Fill-14" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
