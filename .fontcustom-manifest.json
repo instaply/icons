@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "a0259a9e40d2ef8a8842c76bad3bca3156097a09ad8ddcdb232c69f318a95d0f",
-    "current": "a0259a9e40d2ef8a8842c76bad3bca3156097a09ad8ddcdb232c69f318a95d0f"
+    "previous": "4caf524a346936f419a3fa672572f11b057959b8581d1dd7025540fbc2e04168",
+    "current": "4caf524a346936f419a3fa672572f11b057959b8581d1dd7025540fbc2e04168"
   },
   "fonts": [
-    "fontcustom/fontcustom_a0259a9e40d2ef8a8842c76bad3bca31.ttf",
-    "fontcustom/fontcustom_a0259a9e40d2ef8a8842c76bad3bca31.svg",
-    "fontcustom/fontcustom_a0259a9e40d2ef8a8842c76bad3bca31.woff",
-    "fontcustom/fontcustom_a0259a9e40d2ef8a8842c76bad3bca31.eot"
+    "fonts/instaglyph.ttf",
+    "fonts/instaglyph.svg",
+    "fonts/instaglyph.woff",
+    "fonts/instaglyph.eot"
   ],
   "glyphs": {
     "arrow-down": {
@@ -121,26 +121,26 @@
   },
   "options": {
     "autowidth": false,
-    "config": false,
-    "css_selector": ".icon-{{glyph}}",
+    "config": "fontcustom.yml",
+    "css_selector": ".ig-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 16,
     "font_em": 512,
-    "font_name": "fontcustom",
+    "font_name": "instaglyph",
     "force": false,
     "input": {
       "templates": "svg/",
       "vectors": "svg/"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
-      "css": "fontcustom",
-      "fonts": "fontcustom",
-      "preview": "fontcustom"
+      "css": "css",
+      "fonts": "fonts",
+      "preview": "styleguide"
     },
-    "preprocessor_path": null,
+    "preprocessor_path": "",
     "quiet": false,
     "templates": [
       "css",
@@ -148,7 +148,7 @@
     ]
   },
   "templates": [
-    "fontcustom/fontcustom.css",
-    "fontcustom/fontcustom-preview.html"
+    "css/instaglyph.css",
+    "styleguide/instaglyph-preview.html"
   ]
 }

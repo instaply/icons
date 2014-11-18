@@ -1,18 +1,18 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2014-11-17: Created with FontForge (http://fontforge.org)
+2014-11-18: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141024 at Mon Nov 17 18:41:56 2014
+Created by FontForge 20141024 at Tue Nov 18 11:58:58 2014
  By teebot
 Copyright (c) 2014, teebot
 </metadata>
 <defs>
-<font id="fontcustom" horiz-adv-x="512" >
+<font id="instaglyph" horiz-adv-x="512" >
   <font-face 
-    font-family="fontcustom"
+    font-family="instaglyph"
     font-weight="400"
     font-stretch="normal"
     units-per-em="512"
