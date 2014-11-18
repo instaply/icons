@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4caf524a346936f419a3fa672572f11b057959b8581d1dd7025540fbc2e04168",
-    "current": "4caf524a346936f419a3fa672572f11b057959b8581d1dd7025540fbc2e04168"
+    "previous": "8bab1b38cf5bfee9e6c27e27d545150af5ce8b7d3004fe11deec36f8b61fda82",
+    "current": "8bab1b38cf5bfee9e6c27e27d545150af5ce8b7d3004fe11deec36f8b61fda82"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -66,9 +66,25 @@
       "codepoint": 61709,
       "source": "svg/escalation.svg"
     },
+    "file-generic": {
+      "codepoint": 61723,
+      "source": "svg/file-generic.svg"
+    },
+    "file-image": {
+      "codepoint": 61724,
+      "source": "svg/file-image.svg"
+    },
+    "forward": {
+      "codepoint": 61725,
+      "source": "svg/forward.svg"
+    },
     "gear": {
       "codepoint": 61710,
       "source": "svg/gear.svg"
+    },
+    "help": {
+      "codepoint": 61726,
+      "source": "svg/help.svg"
     },
     "hours": {
       "codepoint": 61711,
@@ -117,6 +133,18 @@
     "store": {
       "codepoint": 61722,
       "source": "svg/store.svg"
+    },
+    "waiting": {
+      "codepoint": 61727,
+      "source": "svg/waiting.svg"
+    },
+    "warning": {
+      "codepoint": 61728,
+      "source": "svg/warning.svg"
+    },
+    "welcome-msg": {
+      "codepoint": 61729,
+      "source": "svg/welcome-msg.svg"
     }
   },
   "options": {
