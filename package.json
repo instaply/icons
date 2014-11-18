@@ -1,0 +1,19 @@
+{
+  "name": "instaply-icons",
+  "version": "1.0.0",
+  "description": "This npm packages the different icons and css used in different frontend platforms",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/instaply/icons"
+  },
+  "keywords": [
+    "instaply",
+    "icons"
+  ],
+  "author": "Instaply Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/instaply/icons/issues"
+  },
+  "homepage": "https://github.com/instaply/icons"
+}
