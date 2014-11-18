@@ -1,13 +1,14 @@
-# CUSTOM ICONS GENERATION
+# INSTAGLYPH GENERATION
 
 ## Usage
 
 FontCustom generates icons from svg files. 
 Drop new svgs correctly named, regenerate the icons and push your changes.
 
-The svgs are in folder `/svg` and generated fonts and web assets in `/fontcustom`
+The svgs are in folder `/svg` and generated fonts in `/fonts`
 
-A css file is generated as well where icon classes follow the svg filename such that the icon `/svg/gear.svg` is usable as `.icon-gear`
+
+A css file is generated in `/css`. Icon classes follow the svg filename such that the icon `/svg/gear.svg` is usable as `.ig-gear`
 
 
 
