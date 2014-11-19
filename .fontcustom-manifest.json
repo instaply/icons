@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8bab1b38cf5bfee9e6c27e27d545150af5ce8b7d3004fe11deec36f8b61fda82",
-    "current": "8bab1b38cf5bfee9e6c27e27d545150af5ce8b7d3004fe11deec36f8b61fda82"
+    "previous": "f92f6a1a9480506e8f865d350011545825dbc7d4e7dc1df454223355f49257a7",
+    "current": "f92f6a1a9480506e8f865d350011545825dbc7d4e7dc1df454223355f49257a7"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -45,6 +45,10 @@
     "compose": {
       "codepoint": 61704,
       "source": "svg/compose.svg"
+    },
+    "congratz": {
+      "codepoint": 61730,
+      "source": "svg/congratz.svg"
     },
     "customer": {
       "codepoint": 61705,
