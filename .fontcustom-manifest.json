@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4eedaa27631051fffb591923d14dbefbdeb51d3aedbaff6bdd186f3eb77c06b5",
-    "current": "4eedaa27631051fffb591923d14dbefbdeb51d3aedbaff6bdd186f3eb77c06b5"
+    "previous": "239c1a05c9fa9648fce77265219fab0856aac8b747aadd0ec1259b836dc0d419",
+    "current": "239c1a05c9fa9648fce77265219fab0856aac8b747aadd0ec1259b836dc0d419"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -58,6 +58,10 @@
       "codepoint": 61706,
       "source": "svg/directory.svg"
     },
+    "download": {
+      "codepoint": 61732,
+      "source": "svg/download.svg"
+    },
     "employee-single": {
       "codepoint": 61707,
       "source": "svg/employee-single.svg"
@@ -101,6 +105,22 @@
     "insight": {
       "codepoint": 61713,
       "source": "svg/insight.svg"
+    },
+    "join-conv": {
+      "codepoint": 61733,
+      "source": "svg/join-conv.svg"
+    },
+    "leave-conv": {
+      "codepoint": 61734,
+      "source": "svg/leave-conv.svg"
+    },
+    "magnify": {
+      "codepoint": 61735,
+      "source": "svg/magnify.svg"
+    },
+    "mail-verification": {
+      "codepoint": 61736,
+      "source": "svg/mail-verification.svg"
     },
     "messages": {
       "codepoint": 61714,

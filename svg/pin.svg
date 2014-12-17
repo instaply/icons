@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="pin" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M32,11.8153846 C26.477,11.8153846 22,16.2254769 22,21.6635077 C22,27.1025231 26.477,31.5076923 32,31.5076923 C37.523,31.5076923 42,27.1025231 42,21.6635077 C42,16.2254769 37.523,11.8153846 32,11.8153846 L32,11.8153846 Z M32,27.5692308 C28.685,27.5692308 26,24.9255385 26,21.6635077 C26,18.3985231 28.685,15.7558154 32,15.7558154 C35.314,15.7558154 38,18.3985231 38,21.6635077 C38,24.9255385 35.314,27.5692308 32,27.5692308 L32,27.5692308 Z M32,0 C18.745,0 8,10.5806769 8,23.6307692 C8,36.6828308 32,63.0153846 32,63.0153846 C32,63.0153846 56,36.6828308 56,23.6307692 C56,10.5806769 45.255,0 32,0 L32,0 Z M12,23.8788923 C12,12.8679385 20.954,3.93846154 32,3.93846154 C43.045,3.93846154 52,12.8679385 52,23.8788923 C52,34.8908308 32,57.1096615 32,57.1096615 C32,57.1096615 12,34.8908308 12,23.8788923 L12,23.8788923 Z" id="Imported-Layers" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
