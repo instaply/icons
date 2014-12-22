@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "239c1a05c9fa9648fce77265219fab0856aac8b747aadd0ec1259b836dc0d419",
-    "current": "239c1a05c9fa9648fce77265219fab0856aac8b747aadd0ec1259b836dc0d419"
+    "previous": "5f6556dee552a2a7380fcb1ebdac81ee3f4551125ee4669c63c400b1463a61cf",
+    "current": "5f6556dee552a2a7380fcb1ebdac81ee3f4551125ee4669c63c400b1463a61cf"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -106,6 +106,10 @@
       "codepoint": 61713,
       "source": "svg/insight.svg"
     },
+    "invisible": {
+      "codepoint": 61737,
+      "source": "svg/invisible.svg"
+    },
     "join-conv": {
       "codepoint": 61733,
       "source": "svg/join-conv.svg"
@@ -161,6 +165,10 @@
     "store": {
       "codepoint": 61722,
       "source": "svg/store.svg"
+    },
+    "visible": {
+      "codepoint": 61738,
+      "source": "svg/visible.svg"
     },
     "waiting": {
       "codepoint": 61727,
