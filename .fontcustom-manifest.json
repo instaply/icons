@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5f6556dee552a2a7380fcb1ebdac81ee3f4551125ee4669c63c400b1463a61cf",
-    "current": "5f6556dee552a2a7380fcb1ebdac81ee3f4551125ee4669c63c400b1463a61cf"
+    "previous": "7b293a644df06d458a55ccabe8feeaf41e3722fa669adc9effa1ed51824eda42",
+    "current": "7b293a644df06d458a55ccabe8feeaf41e3722fa669adc9effa1ed51824eda42"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -30,6 +30,10 @@
       "codepoint": 61700,
       "source": "svg/burger-menu.svg"
     },
+    "businesses": {
+      "codepoint": 61739,
+      "source": "svg/businesses.svg"
+    },
     "camera": {
       "codepoint": 61701,
       "source": "svg/camera.svg"
@@ -53,6 +57,10 @@
     "customer": {
       "codepoint": 61705,
       "source": "svg/customer.svg"
+    },
+    "customers": {
+      "codepoint": 61740,
+      "source": "svg/customers.svg"
     },
     "directory": {
       "codepoint": 61706,

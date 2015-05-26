@@ -28,12 +28,14 @@
 .ig-arrow-right:before,
 .ig-arrow-top:before,
 .ig-burger-menu:before,
+.ig-businesses:before,
 .ig-camera:before,
 .ig-checked:before,
 .ig-close:before,
 .ig-compose:before,
 .ig-congratz:before,
 .ig-customer:before,
+.ig-customers:before,
 .ig-directory:before,
 .ig-download:before,
 .ig-employee-single:before,
@@ -85,12 +87,14 @@
 .ig-arrow-right:before { content: "\f102"; }
 .ig-arrow-top:before { content: "\f103"; }
 .ig-burger-menu:before { content: "\f104"; }
+.ig-businesses:before { content: "\f12b"; }
 .ig-camera:before { content: "\f105"; }
 .ig-checked:before { content: "\f106"; }
 .ig-close:before { content: "\f107"; }
 .ig-compose:before { content: "\f108"; }
 .ig-congratz:before { content: "\f122"; }
 .ig-customer:before { content: "\f109"; }
+.ig-customers:before { content: "\f12c"; }
 .ig-directory:before { content: "\f10a"; }
 .ig-download:before { content: "\f124"; }
 .ig-employee-single:before { content: "\f10b"; }
