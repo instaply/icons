@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>filter-full</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="filter-full" sketch:type="MSArtboardGroup" fill="#221F20">
+            <path d="M63.6614957,1.76904348 C63.1474087,0.589913043 62.2562783,0 60.9846261,0 L2.94914783,0 C1.68027826,0 0.786365217,0.589913043 0.272973913,1.76904348 C-0.241113043,3.008 -0.0289391304,4.0653913 0.9088,4.9426087 L23.2621913,27.296 L23.2621913,49.3314783 C23.2621913,50.1168696 23.5501913,50.7986087 24.1234087,51.3725217 L35.7317565,62.978087 C36.2757565,63.554087 36.954713,63.842087 37.7728,63.842087 C38.1338435,63.842087 38.5115826,63.7662609 38.9060174,63.613913 C40.0851478,63.1005217 40.6750609,62.2093913 40.6750609,60.9405217 L40.6750609,27.296 L63.0284522,4.9426087 C63.9654957,4.0653913 64.174887,3.008 63.6614957,1.76904348" id="Fill-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

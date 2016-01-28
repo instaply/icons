@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "68c56938ea549490b23ed10975cce4a9c5396aa7b81892ce8da17357dcec591b",
-    "current": "68c56938ea549490b23ed10975cce4a9c5396aa7b81892ce8da17357dcec591b"
+    "previous": "a5b7cca94163ef5f0a6397f44fe51a81ed18f23e40a30f3a5121291d0e2498b4",
+    "current": "a5b7cca94163ef5f0a6397f44fe51a81ed18f23e40a30f3a5121291d0e2498b4"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -10,6 +10,10 @@
     "fonts/instaglyph.eot"
   ],
   "glyphs": {
+    "arobase": {
+      "codepoint": 61746,
+      "source": "svg/arobase.svg"
+    },
     "arrow-down": {
       "codepoint": 61696,
       "source": "svg/arrow-down.svg"
@@ -45,6 +49,10 @@
     "close": {
       "codepoint": 61703,
       "source": "svg/close.svg"
+    },
+    "close-circle": {
+      "codepoint": 61747,
+      "source": "svg/close-circle.svg"
     },
     "compose": {
       "codepoint": 61704,
@@ -97,6 +105,14 @@
     "file-image": {
       "codepoint": 61724,
       "source": "svg/file-image.svg"
+    },
+    "filter-full": {
+      "codepoint": 61748,
+      "source": "svg/filter-full.svg"
+    },
+    "filter-stroke": {
+      "codepoint": 61749,
+      "source": "svg/filter-stroke.svg"
     },
     "forward": {
       "codepoint": 61725,
