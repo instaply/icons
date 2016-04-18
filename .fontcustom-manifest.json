@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ba61eda5a6c5b06a4ea694c4782ef404553248560499713010a6f68ab8ad83be",
-    "current": "ba61eda5a6c5b06a4ea694c4782ef404553248560499713010a6f68ab8ad83be"
+    "previous": "062d01b6495259184d89d77584479669cf8239b1741bceab26597cf398a0ab82",
+    "current": "062d01b6495259184d89d77584479669cf8239b1741bceab26597cf398a0ab82"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -42,6 +42,10 @@
       "codepoint": 61701,
       "source": "svg/camera.svg"
     },
+    "canned-response": {
+      "codepoint": 61750,
+      "source": "svg/canned-response.svg"
+    },
     "checked": {
       "codepoint": 61702,
       "source": "svg/checked.svg"
@@ -62,6 +66,10 @@
       "codepoint": 61730,
       "source": "svg/congratz.svg"
     },
+    "country": {
+      "codepoint": 61751,
+      "source": "svg/country.svg"
+    },
     "customer": {
       "codepoint": 61705,
       "source": "svg/customer.svg"
@@ -69,6 +77,10 @@
     "customers": {
       "codepoint": 61740,
       "source": "svg/customers.svg"
+    },
+    "delete-alt": {
+      "codepoint": 61752,
+      "source": "svg/delete-alt.svg"
     },
     "directory": {
       "codepoint": 61706,
@@ -78,6 +90,10 @@
       "codepoint": 61732,
       "source": "svg/download.svg"
     },
+    "dragdown": {
+      "codepoint": 61753,
+      "source": "svg/dragdown.svg"
+    },
     "employee-single": {
       "codepoint": 61707,
       "source": "svg/employee-single.svg"
@@ -85,6 +101,10 @@
     "employees": {
       "codepoint": 61708,
       "source": "svg/employees.svg"
+    },
+    "erase": {
+      "codepoint": 61754,
+      "source": "svg/erase.svg"
     },
     "escalation": {
       "codepoint": 61709,
@@ -166,6 +186,10 @@
       "codepoint": 61714,
       "source": "svg/messages.svg"
     },
+    "notifications": {
+      "codepoint": 61755,
+      "source": "svg/notifications.svg"
+    },
     "organization": {
       "codepoint": 61715,
       "source": "svg/organization.svg"
@@ -193,6 +217,10 @@
     "resolved": {
       "codepoint": 61720,
       "source": "svg/resolved.svg"
+    },
+    "saved": {
+      "codepoint": 61756,
+      "source": "svg/saved.svg"
     },
     "services": {
       "codepoint": 61721,

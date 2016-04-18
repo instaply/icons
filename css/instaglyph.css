@@ -31,17 +31,22 @@
 .ig-burger-menu:before,
 .ig-businesses:before,
 .ig-camera:before,
+.ig-canned-response:before,
 .ig-checked:before,
 .ig-close:before,
 .ig-close-circle:before,
 .ig-compose:before,
 .ig-congratz:before,
+.ig-country:before,
 .ig-customer:before,
 .ig-customers:before,
+.ig-delete-alt:before,
 .ig-directory:before,
 .ig-download:before,
+.ig-dragdown:before,
 .ig-employee-single:before,
 .ig-employees:before,
+.ig-erase:before,
 .ig-escalation:before,
 .ig-favorite-off:before,
 .ig-favorite-on:before,
@@ -62,6 +67,7 @@
 .ig-magnify:before,
 .ig-mail-verification:before,
 .ig-messages:before,
+.ig-notifications:before,
 .ig-organization:before,
 .ig-paper-clip:before,
 .ig-pen:before,
@@ -69,6 +75,7 @@
 .ig-plus:before,
 .ig-private:before,
 .ig-resolved:before,
+.ig-saved:before,
 .ig-services:before,
 .ig-sort-asc:before,
 .ig-sort-desc:before,
@@ -99,17 +106,22 @@
 .ig-burger-menu:before { content: "\f104"; }
 .ig-businesses:before { content: "\f12b"; }
 .ig-camera:before { content: "\f105"; }
+.ig-canned-response:before { content: "\f136"; }
 .ig-checked:before { content: "\f106"; }
 .ig-close:before { content: "\f107"; }
 .ig-close-circle:before { content: "\f133"; }
 .ig-compose:before { content: "\f108"; }
 .ig-congratz:before { content: "\f122"; }
+.ig-country:before { content: "\f137"; }
 .ig-customer:before { content: "\f109"; }
 .ig-customers:before { content: "\f12c"; }
+.ig-delete-alt:before { content: "\f138"; }
 .ig-directory:before { content: "\f10a"; }
 .ig-download:before { content: "\f124"; }
+.ig-dragdown:before { content: "\f139"; }
 .ig-employee-single:before { content: "\f10b"; }
 .ig-employees:before { content: "\f10c"; }
+.ig-erase:before { content: "\f13a"; }
 .ig-escalation:before { content: "\f10d"; }
 .ig-favorite-off:before { content: "\f12f"; }
 .ig-favorite-on:before { content: "\f130"; }
@@ -130,6 +142,7 @@
 .ig-magnify:before { content: "\f127"; }
 .ig-mail-verification:before { content: "\f128"; }
 .ig-messages:before { content: "\f112"; }
+.ig-notifications:before { content: "\f13b"; }
 .ig-organization:before { content: "\f113"; }
 .ig-paper-clip:before { content: "\f114"; }
 .ig-pen:before { content: "\f115"; }
@@ -137,6 +150,7 @@
 .ig-plus:before { content: "\f116"; }
 .ig-private:before { content: "\f117"; }
 .ig-resolved:before { content: "\f118"; }
+.ig-saved:before { content: "\f13c"; }
 .ig-services:before { content: "\f119"; }
 .ig-sort-asc:before { content: "\f12d"; }
 .ig-sort-desc:before { content: "\f12e"; }
