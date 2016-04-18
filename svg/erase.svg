@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>erase</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="erase" fill="#000000">
+            <path d="M42,50 L46,50 L46,26 L42,26 L42,50 Z M30,50 L34,50 L34,22 L30,22 L30,50 Z M54,14 L54,58 C54,59.104 53.103,60 52,60 L12,60 C10.894,60 9.999,59.104 9.999,58 L9.999,15.998 L9.999,14 L9.999,11.998 L12,11.998 L52,11.998 L54,11.998 L53.596,12.806 C53.847,13.14 54,13.55 54,14 L54,14 Z M26,4 L38,4 L38,8 L26,8 L26,4 Z M60,8 L54,8 L42,8 L42,2 C42,0.895 41.104,0 40,0 L24,0 C22.894,0 21.999,0.895 21.999,2 L21.999,8 L9.999,8 L3.999,8 C2.894,8 2,8.895 2,10 C2,11.104 2.894,11.998 3.999,11.998 L6,11.998 L6,60 C6,62.207 7.791,64 9.999,64 L54,64 C56.209,64 58,62.207 58,60 L58,11.998 L60,11.998 C61.104,11.998 62,11.104 62,10 C62,8.895 61.104,8 60,8 L60,8 Z M17.999,50 L21.999,50 L21.999,26 L17.999,26 L17.999,50 Z"></path>
+        </g>
+    </g>
+</svg>
