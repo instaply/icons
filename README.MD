@@ -27,7 +27,7 @@ then:
 
 ## Regenerate
 
-	. gen-icons.sh
+	sh gen-icons.sh
 
 
 
