@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "062d01b6495259184d89d77584479669cf8239b1741bceab26597cf398a0ab82",
-    "current": "062d01b6495259184d89d77584479669cf8239b1741bceab26597cf398a0ab82"
+    "previous": "4290d26249e7e7b19bf49cc5681eaa6a9bf4d5bbf51187be9773e488943d4a2e",
+    "current": "4290d26249e7e7b19bf49cc5681eaa6a9bf4d5bbf51187be9773e488943d4a2e"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -10,6 +10,10 @@
     "fonts/instaglyph.eot"
   ],
   "glyphs": {
+    "account": {
+      "codepoint": 61757,
+      "source": "svg/account.svg"
+    },
     "arobase": {
       "codepoint": 61746,
       "source": "svg/arobase.svg"

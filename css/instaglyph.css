@@ -23,6 +23,7 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.ig-account:before,
 .ig-arobase:before,
 .ig-arrow-down:before,
 .ig-arrow-left:before,
@@ -98,6 +99,7 @@
   font-smoothing: antialiased;
 }
 
+.ig-account:before { content: "\f13d"; }
 .ig-arobase:before { content: "\f132"; }
 .ig-arrow-down:before { content: "\f100"; }
 .ig-arrow-left:before { content: "\f101"; }
