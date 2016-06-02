@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4290d26249e7e7b19bf49cc5681eaa6a9bf4d5bbf51187be9773e488943d4a2e",
-    "current": "4290d26249e7e7b19bf49cc5681eaa6a9bf4d5bbf51187be9773e488943d4a2e"
+    "previous": "8d918c84b7708b4ba2ff412954675955ee38c9e375374ff044f64dea7693020d",
+    "current": "8d918c84b7708b4ba2ff412954675955ee38c9e375374ff044f64dea7693020d"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -57,6 +57,10 @@
     "close": {
       "codepoint": 61703,
       "source": "svg/close.svg"
+    },
+    "close-bold": {
+      "codepoint": 61758,
+      "source": "svg/close-bold.svg"
     },
     "close-circle": {
       "codepoint": 61747,
