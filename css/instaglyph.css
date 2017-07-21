@@ -82,6 +82,7 @@
 .ig-sort-asc:before,
 .ig-sort-desc:before,
 .ig-store:before,
+.ig-survey:before,
 .ig-visible:before,
 .ig-waiting:before,
 .ig-warning:before,
@@ -159,6 +160,7 @@
 .ig-sort-asc:before { content: "\f12d"; }
 .ig-sort-desc:before { content: "\f12e"; }
 .ig-store:before { content: "\f11a"; }
+.ig-survey:before { content: "\f13f"; }
 .ig-visible:before { content: "\f12a"; }
 .ig-waiting:before { content: "\f11f"; }
 .ig-warning:before { content: "\f120"; }
