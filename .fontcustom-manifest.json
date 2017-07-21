@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8d918c84b7708b4ba2ff412954675955ee38c9e375374ff044f64dea7693020d",
-    "current": "8d918c84b7708b4ba2ff412954675955ee38c9e375374ff044f64dea7693020d"
+    "previous": "ae634acd50170fb9177a07d6772c0593d9b53bb6023649454f0e751cc2c58f4a",
+    "current": "ae634acd50170fb9177a07d6772c0593d9b53bb6023649454f0e751cc2c58f4a"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -245,6 +245,10 @@
     "store": {
       "codepoint": 61722,
       "source": "svg/store.svg"
+    },
+    "survey": {
+      "codepoint": 61759,
+      "source": "svg/survey.svg"
     },
     "visible": {
       "codepoint": 61738,
