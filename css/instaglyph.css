@@ -29,6 +29,7 @@
 .ig-arrow-left:before,
 .ig-arrow-right:before,
 .ig-arrow-top:before,
+.ig-bot:before,
 .ig-burger-menu:before,
 .ig-businesses:before,
 .ig-camera:before,
@@ -107,6 +108,7 @@
 .ig-arrow-left:before { content: "\f101"; }
 .ig-arrow-right:before { content: "\f102"; }
 .ig-arrow-top:before { content: "\f103"; }
+.ig-bot:before { content: "\f140"; }
 .ig-burger-menu:before { content: "\f104"; }
 .ig-businesses:before { content: "\f12b"; }
 .ig-camera:before { content: "\f105"; }

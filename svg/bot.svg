@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3">
+            <g id="ICON-FEATURE_botnet" transform="translate(10.000000, 6.000000)">
+                <g id="Group" transform="translate(0.000000, 5.250127)" fill-rule="nonzero">
+                    <path d="M19.6960535,38.8105544 C30.3709139,38.8105544 39.024598,30.1568702 39.024598,19.4820098 C39.024598,8.80714942 30.3709139,0.153465252 19.6960535,0.153465252 C9.02119306,0.153465252 0.367508892,8.80714942 0.367508892,19.4820098 C0.367508892,21.8129869 0.683837891,26.1500195 3.94750977,32.0782421 C7.21118164,38.0064648 10.4781151,42.6797571 11.894043,44.3746288 C13.8496151,46.7154571 9.31036179,36.0784503 12.1589374,37.285874 C14.4749959,38.2675801 17.0221155,38.8105544 19.6960535,38.8105544" id="Shape" fill="#CCCCCC"></path>
+                    <path d="M9.32503331,13.8643739 C9.32503331,13.8643739 6.66766132,13.8643739 6.66766132,16.8367535 L6.66766132,22.1272661 C6.66766132,22.1272661 6.66766132,25.0996457 9.32503331,25.0996457 L30.7940143,25.0996457 C30.7940143,25.0996457 33.4513863,25.0996457 33.4513863,22.1272661 L33.4513863,16.8367535 C33.4513863,16.8367535 33.4513863,13.8643739 30.7940143,13.8643739 L9.32503331,13.8643739" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <path d="M13,21.505328 L13,27.9589457" id="Shape" stroke="#C7C7C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M26,21.505328 L26,27.9589457" id="Shape" stroke="#C7C7C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M19.6960535,3.19450037 L19.6960535,9.64811805" id="Shape" stroke="#C7C7C7" stroke-width="9.06" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28.3547245,10.4598685 L33.2736897,1.59119235" id="Shape" stroke="#C7C7C7" stroke-width="2.72" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M32.9950291,3.7962457 C34.005416,3.7962457 34.8244964,2.97716527 34.8244964,1.96677836 C34.8244964,0.956391443 34.005416,0.137311015 32.9950291,0.137311015 C31.9846422,0.137311015 31.1655617,0.956391443 31.1655617,1.96677836 C31.1655617,2.97716527 31.9846422,3.7962457 32.9950291,3.7962457" id="Shape" fill="#CCCCCC" fill-rule="nonzero"></path>
+                <path d="M11.0373824,10.4598685 L6.12245583,1.59119235" id="Shape" stroke="#C7C7C7" stroke-width="2.72" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.39707785,3.7962457 C5.38669094,3.7962457 4.56761051,2.97716527 4.56761051,1.96677836 C4.56761051,0.956391443 5.38669094,0.137311015 6.39707785,0.137311015 C7.40746477,0.137311015 8.2265452,0.956391443 8.2265452,1.96677836 C8.2265452,2.97716527 7.40746477,3.7962457 6.39707785,3.7962457" id="Shape" fill="#CCCCCC" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
