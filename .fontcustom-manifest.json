@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "489a4da3626ec069be599a3afdf7a400c5e650eacd24213b870d88d848cb6713",
-    "current": "489a4da3626ec069be599a3afdf7a400c5e650eacd24213b870d88d848cb6713"
+    "previous": "22898861ca335d046f87c59f1d0c795a749032c9d3039277fc27e1e1c347fcc1",
+    "current": "22898861ca335d046f87c59f1d0c795a749032c9d3039277fc27e1e1c347fcc1"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -33,6 +33,10 @@
     "arrow-top": {
       "codepoint": 61699,
       "source": "svg/arrow-top.svg"
+    },
+    "bot": {
+      "codepoint": 61760,
+      "source": "svg/bot.svg"
     },
     "burger-menu": {
       "codepoint": 61700,
