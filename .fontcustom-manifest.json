@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "22898861ca335d046f87c59f1d0c795a749032c9d3039277fc27e1e1c347fcc1",
-    "current": "22898861ca335d046f87c59f1d0c795a749032c9d3039277fc27e1e1c347fcc1"
+    "previous": "191848b25363f637f577e9e29383af1091d79cec4213b18e0f5907958213313c",
+    "current": "191848b25363f637f577e9e29383af1091d79cec4213b18e0f5907958213313c"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
     "fonts/instaglyph.svg",
     "fonts/instaglyph.woff",
-    "fonts/instaglyph.eot"
+    "fonts/instaglyph.eot",
+    "fonts/instaglyph.woff2"
   ],
   "glyphs": {
     "account": {
@@ -210,6 +211,10 @@
       "codepoint": 61716,
       "source": "svg/paper-clip.svg"
     },
+    "payment": {
+      "codepoint": 61761,
+      "source": "svg/payment.svg"
+    },
     "pen": {
       "codepoint": 61717,
       "source": "svg/pen.svg"
@@ -274,6 +279,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".ig-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

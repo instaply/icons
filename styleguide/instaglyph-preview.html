@@ -143,6 +143,7 @@
   font-family: "instaglyph";
   src: url("../fonts/instaglyph.eot");
   src: url("../fonts/instaglyph.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/instaglyph.woff2") format("woff2"),
        url("../fonts/instaglyph.woff") format("woff"),
        url("../fonts/instaglyph.ttf") format("truetype"),
        url("../fonts/instaglyph.svg#instaglyph") format("svg");
@@ -210,6 +211,7 @@
 .ig-notifications:before,
 .ig-organization:before,
 .ig-paper-clip:before,
+.ig-payment:before,
 .ig-pen:before,
 .ig-pin:before,
 .ig-plus:before,
@@ -289,6 +291,7 @@
 .ig-notifications:before { content: "\f13b"; }
 .ig-organization:before { content: "\f113"; }
 .ig-paper-clip:before { content: "\f114"; }
+.ig-payment:before { content: "\f141"; }
 .ig-pen:before { content: "\f115"; }
 .ig-pin:before { content: "\f123"; }
 .ig-plus:before { content: "\f116"; }
@@ -319,7 +322,7 @@
   <body class="characters-off">
     <div id="page" class="container">
       <header>
-        <h1>instaglyph contains 65 glyphs:</h1>
+        <h1>instaglyph contains 66 glyphs:</h1>
         <a onclick="toggleCharacters(); return false;" href="#">Toggle Preview Characters</a>
       </header>
 
@@ -971,6 +974,19 @@
         <div class="usage">
           <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".ig-paper-clip" />
           <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf114;" />
+        </div>
+      </div>
+      
+      <div class="glyph">
+        <div class="preview-glyphs">
+          <span class="step size-12"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-14"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-16"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-18"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-21"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-24"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-36"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-48"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-60"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span><span class="step size-72"><span class="letters">Pp</span><i id="ig-payment" class="ig-payment"></i></span>
+        </div>
+        <div class="preview-scale">
+          <span class="step">12</span><span class="step">14</span><span class="step">16</span><span class="step">18</span><span class="step">21</span><span class="step">24</span><span class="step">36</span><span class="step">48</span><span class="step">60</span><span class="step">72</span>
+        </div>
+        <div class="usage">
+          <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".ig-payment" />
+          <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf141;" />
         </div>
       </div>
       
