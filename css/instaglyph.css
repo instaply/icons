@@ -6,6 +6,7 @@
   font-family: "instaglyph";
   src: url("../fonts/instaglyph.eot");
   src: url("../fonts/instaglyph.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/instaglyph.woff2") format("woff2"),
        url("../fonts/instaglyph.woff") format("woff"),
        url("../fonts/instaglyph.ttf") format("truetype"),
        url("../fonts/instaglyph.svg#instaglyph") format("svg");
@@ -73,6 +74,7 @@
 .ig-notifications:before,
 .ig-organization:before,
 .ig-paper-clip:before,
+.ig-payment:before,
 .ig-pen:before,
 .ig-pin:before,
 .ig-plus:before,
@@ -152,6 +154,7 @@
 .ig-notifications:before { content: "\f13b"; }
 .ig-organization:before { content: "\f113"; }
 .ig-paper-clip:before { content: "\f114"; }
+.ig-payment:before { content: "\f141"; }
 .ig-pen:before { content: "\f115"; }
 .ig-pin:before { content: "\f123"; }
 .ig-plus:before { content: "\f116"; }
