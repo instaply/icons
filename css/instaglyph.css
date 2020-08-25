@@ -46,12 +46,14 @@
 .ig-customers:before,
 .ig-delete-alt:before,
 .ig-directory:before,
+.ig-dollar:before,
 .ig-download:before,
 .ig-dragdown:before,
 .ig-employee-single:before,
 .ig-employees:before,
 .ig-erase:before,
 .ig-escalation:before,
+.ig-euro:before,
 .ig-favorite-off:before,
 .ig-favorite-on:before,
 .ig-file-generic:before,
@@ -126,12 +128,14 @@
 .ig-customers:before { content: "\f12c"; }
 .ig-delete-alt:before { content: "\f138"; }
 .ig-directory:before { content: "\f10a"; }
+.ig-dollar:before { content: "\f142"; }
 .ig-download:before { content: "\f124"; }
 .ig-dragdown:before { content: "\f139"; }
 .ig-employee-single:before { content: "\f10b"; }
 .ig-employees:before { content: "\f10c"; }
 .ig-erase:before { content: "\f13a"; }
 .ig-escalation:before { content: "\f10d"; }
+.ig-euro:before { content: "\f143"; }
 .ig-favorite-off:before { content: "\f12f"; }
 .ig-favorite-on:before { content: "\f130"; }
 .ig-file-generic:before { content: "\f11b"; }

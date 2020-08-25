@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "191848b25363f637f577e9e29383af1091d79cec4213b18e0f5907958213313c",
-    "current": "191848b25363f637f577e9e29383af1091d79cec4213b18e0f5907958213313c"
+    "previous": "1792031ceb89a09045456f7124a80c9017897266e7da213bcc38d58a8199b8af",
+    "current": "1792031ceb89a09045456f7124a80c9017897266e7da213bcc38d58a8199b8af"
   },
   "fonts": [
     "fonts/instaglyph.ttf",
@@ -99,6 +99,10 @@
       "codepoint": 61706,
       "source": "svg/directory.svg"
     },
+    "dollar": {
+      "codepoint": 61762,
+      "source": "svg/dollar.svg"
+    },
     "download": {
       "codepoint": 61732,
       "source": "svg/download.svg"
@@ -122,6 +126,10 @@
     "escalation": {
       "codepoint": 61709,
       "source": "svg/escalation.svg"
+    },
+    "euro": {
+      "codepoint": 61763,
+      "source": "svg/euro.svg"
     },
     "favorite-off": {
       "codepoint": 61743,
