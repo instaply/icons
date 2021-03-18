@@ -1,3 +1,2 @@
 #!/bin/bash
 fontcustom compile
-
